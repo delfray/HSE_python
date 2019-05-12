@@ -1,9 +1,5 @@
-App_Token = "Введите свой сервисный ключ доступа"
-
+App_Token = "Р’РІРµРґРёС‚Рµ СЃРІРѕР№ СЃРµСЂРІРёСЃРЅС‹Р№ РєР»СЋС‡ РґРѕСЃС‚СѓРїР°"
 Version = 5.95
-
 Group_id = -81208883
-
 Plotly_user = Foxride
-
 Plotly_key = uxDQM5bTXC63OMRqoWm2
