@@ -1,0 +1,9 @@
+App_Token = "¬ведите свой сервисный ключ доступа"
+
+Version = 5.95
+
+Group_id = -81208883
+
+Plotly_user = Foxride
+
+Plotly_key = uxDQM5bTXC63OMRqoWm2
